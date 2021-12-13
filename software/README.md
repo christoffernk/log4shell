@@ -661,6 +661,7 @@ NCSC-NL will use the following status:
 | VMware       | VMware vRealize Orchestrator   | 8.x, 7.x | Vuln |   | [source](https://kb.vmware.com/s/article/87068)|
 | VMware       | VMware Cloud Foundation  | 4.x, 3.x | Workaround |   | [source](https://kb.vmware.com/s/article/87068), [Workaround](https://kb.vmware.com/s/article/87095)|
 | VMware       | VMware Workspace ONE Access Connector (VMware Identity Manager Connector)  | 19.03.0.1, 20.x, 21.x | Workaround |   | [source](https://kb.vmware.com/s/article/87068), [Workaround](https://kb.vmware.com/s/article/87091)|
+| Visma        | Visma Enterprise        |
 
 
 
