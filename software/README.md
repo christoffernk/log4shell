@@ -528,6 +528,12 @@ NCSC-NL will use the following status:
 | Pulse Secure | Pulse ZTA | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
 | Pulse Secure | Ivanti Neurons for ZTA | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
 | Pulse Secure | Ivanti Neurons for secure Access | | Not Vuln | | [source](https://kb.pulsesecure.net/articles/Pulse_Secure_Article/KB44933/) |
+| PhenixID | PhenixID Authentication Services | | Fix | | [source](https://support.phenixid.se/uncategorized/log4j-fix/) | 
+| PhenixID | PhenixID Identity Manager | | Fix | | [source](https://support.phenixid.se/uncategorized/log4j-fix/) | 
+| PhenixID | PhenixID MFA | | Fix | | [source](https://support.phenixid.se/uncategorized/log4j-fix/) | 
+| PhenixID | PhenixID Password Self Service | | Fix | | [source](https://support.phenixid.se/uncategorized/log4j-fix/) | 
+| PhenixID | PhenixID Signing Service | | Fix | | [source](https://support.phenixid.se/uncategorized/log4j-fix/) | 
+| PhenixID | PhenixID Signing Workflow | | Fix | | [source](https://support.phenixid.se/uncategorized/log4j-fix/) | 
 | Puppet | Continuous Delivery for Puppet Enterprise | 3.x, < 4.10.2| Fix | Update available for version 4.x, mitigations for 3.x which is EOL| [source](https://puppet.com/blog/puppet-response-to-remote-code-execution-vulnerability-cve-2021-44228/), [workaround](https://puppet.com/docs/continuous-delivery/4.x/cd_release_notes.html#cd_release_notes-version-4-10-3),[mitigations](https://support.puppet.com/hc/en-us/articles/360046708133-Puppet-Response-to-CVE-2021-44228-FAQ/) |
 | Puppet | Puppet agents | | Not Vuln | | [source](https://puppet.com/blog/puppet-response-to-remote-code-execution-vulnerability-cve-2021-44228/) |
 | Puppet | Puppet Enterprise| | Not Vuln | | [source](https://puppet.com/blog/puppet-response-to-remote-code-execution-vulnerability-cve-2021-44228/) |
